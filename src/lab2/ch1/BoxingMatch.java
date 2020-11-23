@@ -1,4 +1,4 @@
-package lab2;
+package lab2.ch1;
 
 public class BoxingMatch {
 
